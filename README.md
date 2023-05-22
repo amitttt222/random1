@@ -7,7 +7,7 @@ The goal of this assignment is threefold: (i) learn how to model sequence-to-seq
  Aksharantar dataset released by AI4Bharat is used in this assignment. This dataset contains pairs of the following form:
 x,y
 ajanabee,अजनबी (this is an example of english to hindi dataset)
-i.e., a word in the native script and its corresponding transliteration in the Latin script (how we type while chatting with our friends on WhatsApp etc).. The dataset is divided into training, validation, and testing sets, with the training set containing 80% data, the validation set containing 20% data, and the testing set.
+i.e., a word in the native script and its corresponding transliteration in the Latin script (how we type while chatting with our friends on WhatsApp etc).. The dataset is divided into training, validation, and testing sets.
 ## Objective<br/>
 dataset and achieve high accuracy by tuning hyperparameters. this is the problem of mapping a sequence of characters in one language to a sequence of characters in another. Notice that this is a scaled-down version of the problem of translation where the goal is to translate a sequence of words in one language to a sequence of words in another language (as opposed to a sequence of characters here).. Through this assignment, we will learn how to fine-tune hyperparameters, experiment with different model architectures, and interpret the results to improve model performance.
 # Folder Structure<br/>
