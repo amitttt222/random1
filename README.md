@@ -32,7 +32,7 @@ This file contains CSV file in which the source, target, and predicted(by model)
 This file is used for to evaluate our attention model on best configuration which is found by sweep on various combination of hyperparameter. it is also used for 
 finding the accuracy on test data<br/>
 
-##6.(predictions-vanilla-code.ipynb)----------<br/>
+6.(predictions-vanilla-code.ipynb)----------<br/>
 This file is used for to evaluate our vanilla model on the best configuration which is found by sweep on various combination of hyperparameter. it is also used to find the accuracy on test data.<br/>
 
 
