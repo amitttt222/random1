@@ -12,9 +12,9 @@ i.e., a word in the native script and its corresponding transliteration in the L
 dataset and achieve high accuracy by tuning hyperparameters. this is the problem of mapping a sequence of characters in one language to a sequence of characters in another. Notice that this is a scaled-down version of the problem of translation where the goal is to translate a sequence of words in one language to a sequence of words in another language (as opposed to a sequence of characters here).. Through this assignment, we will learn how to fine-tune hyperparameters, experiment with different model architectures, and interpret the results to improve model performance.
 # Folder Structure<br/>
 these below files contain the required code for third assignment<br/>
-##1.(assignment-3-v4.ipynb) ------- <br/>
+1.(assignment-3-v4.ipynb) ------- <br/>
 This code file is for training the vanilla model and This code file defines a transliteration model using a sequence-to-sequence architecture without attention mechanism. It preprocesses the data, creates vocabulary mappings, and prepares the train, validation, and test datasets. It then trains the model, logs the training progress using Weights & Biases, and evaluates the model on the validation set. Finally, it saves the best model based on validation accuracy and logs the final training and validation metrics. <br/>
-##2.(assignment-3-att-v5.ipynb)-------<br/>
+2.(assignment-3-att-v5.ipynb)-------<br/>
 This code file is for training the attention model and This code file defines a transliteration model using a sequence-to-sequence architecture with attention mechanism. It preprocesses the data, creates vocabulary mappings, and prepares the train, validation, and test datasets. It then trains the model, logs the training progress using Weights & Biases, and evaluates the model on the validation set. Finally, it saves the best model based on validation accuracy and logs the final training and validation metrics.<br/>
 ##3.(predictions_attention)---------<br/>
 ##4.(predictions_vanilla)------------<br/>
