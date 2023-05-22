@@ -66,6 +66,8 @@ arguments if you wants.
             cell_type   (default - "LSTM")
             bidirectional  (default - "False")
             epoch   (default - 1)<br/>
+            
+            
 9.README.md<br/>
 This is the readme file with clear instructions on training and evaluating the model.<br/>
 
