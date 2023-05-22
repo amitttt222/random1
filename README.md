@@ -22,5 +22,5 @@ predictions-vanilla-code.ipynb<br/>
 train_attention.py<br/>
 train_vanilla.py<br/>
 ## Results<br/>
-The best training accuracy on Aksharantar dataset released by AI4Bharat achieved is *41%* while validation accuracy is *43%*. The explanation and results of subproblems 
-can be accessed (https://api.wandb.ai/links/cs22m010/3z0c1j6z)
+The best test accuracy on Aksharantar dataset released by AI4Bharat achieved on vanilla model is *37.76%* while on attention model the  test accuracy is *40.94%*. The explanation and results of subproblems 
+can be accessed ()
