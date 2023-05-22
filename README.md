@@ -1,5 +1,5 @@
 # DL-Assignment-3
-# train a CNN model from scratch and learn how to tune the hyperparameters and visualize filters
+# train a seq_to_seq model from scratch and learn how to tune the hyperparameters and visualize filters
     Assignment 3, Course Assignment of CS6910 Deep Learning IIT Madras
 ## Abstract<br/>
 The goal of this assignment is threefold: (i) learn how to model sequence-to-sequence learning problems using Recurrent Neural Networks (ii) compare different cells such as vanilla RNN, LSTM and GRU (iii) understand how attention networks overcome the limitations of vanilla seq2seq models
